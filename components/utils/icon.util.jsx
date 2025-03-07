@@ -47,4 +47,4 @@ export default function Icon({ icon }) {
 		<FontAwesomeIcon icon={[ iconType, stateIconKey ]} />
 	)
 }
-x	
+	
